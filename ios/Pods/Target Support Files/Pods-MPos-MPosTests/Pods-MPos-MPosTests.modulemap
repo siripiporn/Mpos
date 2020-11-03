@@ -1,0 +1,6 @@
+module Pods_MPos_MPosTests {
+  umbrella header "Pods-MPos-MPosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
